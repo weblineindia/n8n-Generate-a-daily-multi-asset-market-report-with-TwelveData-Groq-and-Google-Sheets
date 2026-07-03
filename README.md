@@ -1,0 +1,2 @@
+# n8n-Generate-a-daily-multi-asset-market-report-with-TwelveData-Groq-and-Google-Sheets
+Automate daily market reporting with this n8n workflow. It fetches live data for indices, forex and commodities, generates AI-powered market insights with Groq Llama-3, logs reports in Google Sheets and emails a professional market summary. Ideal for market monitoring, financial reporting and investment analysis.
